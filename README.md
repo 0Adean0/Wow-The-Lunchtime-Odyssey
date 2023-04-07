@@ -14,15 +14,19 @@ To navigate the Odyssey, the user can click/select the game category and begin t
 
 ![screenshot of weather checker](./assets/images/Wow-The-Lunchtime-Odyssey_index.html.png)
 
-[Program]()
+[Program](file:///C:/Users/Adavi/bootcamp/Wow-The-Lunchtime-Odyssey/index.html)
 ## Credits
 We utilized the  [owen wilson API] (https://owen-wilson-wow-api.onrender.com/) for this project.
+
 We utilized the  [trivia API] (https://the-trivia-api.com/docs/#getQuiz) for this project.
+
 We utilized [Font awesome] (https://fontawesome.com/search?q=sandwich&o=r&m=free) for this project.
+
 We utilized [ Bulma ] (https://bulma.io/) for this project.
- W3 Schools
+
+W3 Schools
  
- Leif and Fred
+Leif and Fred
 
 ## License
 
