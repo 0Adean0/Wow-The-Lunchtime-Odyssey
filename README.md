@@ -14,7 +14,7 @@ To navigate the Odyssey, the user can click/select the game category and begin t
 
 ![screenshot of weather checker](./assets/images/Wow-The-Lunchtime-Odyssey_index.html.png)
 
-[Program](file:///C:/Users/Adavi/bootcamp/Wow-The-Lunchtime-Odyssey/index.html)
+[Program](https://0adean0.github.io/Wow-The-Lunchtime-Odyssey/)
 ## Credits
 We utilized the  [owen wilson API] (https://owen-wilson-wow-api.onrender.com/) for this project.
 
